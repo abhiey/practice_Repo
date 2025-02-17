@@ -2,7 +2,9 @@ package com.practice;
 
 public class A2 {
 public static void main(String[] args) {
-	System.out.println("cssshssssssaxnsssssssssgessddsssssd");
+
+	System.out.println("Version 1:");
+
 	
 }
 }
